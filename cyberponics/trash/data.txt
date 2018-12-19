@@ -1,0 +1,19 @@
+[`plant height
+[`shoot pressure
+[`root pressure
+[`shoot temp
+[`root temp
+[`shoot humidity
+[`root humidity
+`mold growth
+`mist maker feedback
+[`ph up level
+[`ph down level
+[`nutrition solution level
+[`water level
+[`humidifier water level
+[`shoot light intensity
+[`shoot co2 level
+[`ec
+[`ph
+
